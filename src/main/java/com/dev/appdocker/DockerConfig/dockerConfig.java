@@ -1,4 +1,4 @@
-package com.example.appdocker.DockerConfig;
+package com.dev.appdocker.DockerConfig;
 
 import com.github.dockerjava.api.DockerClient;
 import org.springframework.beans.factory.annotation.Value;
